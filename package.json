@@ -1,0 +1,24 @@
+{
+  "name": "request-path",
+  "version": "0.0.0",
+  "description": "A simple path echo'ing app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Mpdreamz/request-path.git"
+  },
+  "keywords": [
+    "echo",
+    "print",
+    "request",
+    "path"
+  ],
+  "author": "Martijn Laarman",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "68b0f7301624ab45ba096e7fad9cf4d4d70dd131"
+}
